@@ -4,3 +4,6 @@
 * License: I chose a MIT license because of its legal simplicity, and it was very easy to understand
 
 @guyer
+
+> [!NOTE]
+> This is my first time creating a repository, woohoo!!
